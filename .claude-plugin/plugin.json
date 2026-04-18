@@ -1,0 +1,10 @@
+{
+  "name": "speedtest",
+  "description": "Run internet speed and connection diagnostics (ping, packet loss, page load, download speed) and log results to a history file for future comparison.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Ahsan Yaqoob",
+    "url": "https://github.com/ahsanyaqoob1167"
+  },
+  "keywords": ["speedtest", "network", "diagnostics", "ping", "wifi"]
+}
