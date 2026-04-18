@@ -7,7 +7,7 @@
   "plugins": [
     {
       "name": "speedtest",
-      "source": ".",
+      "source": "./",
       "description": "Run internet speed and connection diagnostics (ping, packet loss, page load, download speed) and log results to a history file for future comparison.",
       "version": "1.0.0"
     }
