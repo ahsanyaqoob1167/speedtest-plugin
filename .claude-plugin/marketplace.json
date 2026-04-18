@@ -1,0 +1,15 @@
+{
+  "name": "speedtest-marketplace",
+  "owner": {
+    "name": "Ahsan Yaqoob",
+    "url": "https://github.com/ahsanyaqoob1167"
+  },
+  "plugins": [
+    {
+      "name": "speedtest",
+      "source": ".",
+      "description": "Run internet speed and connection diagnostics (ping, packet loss, page load, download speed) and log results to a history file for future comparison.",
+      "version": "1.0.0"
+    }
+  ]
+}
